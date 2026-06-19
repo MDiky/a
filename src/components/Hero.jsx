@@ -10,8 +10,8 @@ const Hero = () => {
         <div className="hero-content">
           <span className="hero-subtitle">Hello, I'm Diky Imo</span>
           <h1 className="hero-title">
-            Building digital <br />
-            <span className="text-gradient">experiences</span>
+            Building Websites <br />
+            <span className="text-gradient">And Android Apps</span>
           </h1>
           <p className="hero-description">
             I'm a passionate frontend developer specializing in building exceptional digital 
